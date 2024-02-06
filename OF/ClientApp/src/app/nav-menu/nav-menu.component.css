@@ -16,3 +16,28 @@ html {
 .box-shadow {
   box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
 }
+
+nav div{
+  background-color: red;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+}
+
+  nav div div {
+    height: 110vh;
+    background-color: red;
+  }
+
+nav {
+  background-color: #777;
+  height: 110%;
+  width: 5vw;
+  min-width: 75px;
+  height: 100vh;
+}
+
+header{
+    height: 100vh;
+}
