@@ -18,7 +18,7 @@ html {
 }
 
 nav div{
-  background-color: red;
+  background-color: aqua;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -27,11 +27,10 @@ nav div{
 
   nav div div {
     height: 110vh;
-    background-color: red;
+    background-color: aqua;
   }
 
 nav {
-  background-color: #777;
   height: 110%;
   width: 5vw;
   min-width: 75px;
